@@ -1,0 +1,21 @@
+'''Descripcion: el robot debe ir hasta la manzana, tomarla y dejar una banana, por unltimo debe llegar a la posicion 1.1
+Autor: Daniel Hernandez 
+fecha: 29 de julio 2019'''
+print("Hola soy reeborg")
+print("Voy a cumplir mi mision")
+move()
+move()
+move()
+move()
+#pause()
+take("apple")
+#pause()
+put("banana")
+#pause()
+turn_left()
+turn_left()
+#pause()
+move()
+move()
+move()
+move()
